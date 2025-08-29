@@ -1397,6 +1397,8 @@ textarea{
         margin-left: -20px;
      }
 
+     .footer-text p{ width: 100%;}
+    
     .footer-social-links img{
         scale: 0.7;
     }
@@ -1434,5 +1436,6 @@ textarea{
 }
 
 PROJECT FOR JOB
+
 
 /*---- //END//------*/
